@@ -1,9 +1,9 @@
-// C program to multiply two matrices
+// Programa en C para multiplicar dos matrices
 
 #include <stdio.h>
 #include <stdlib.h>
 
-// Edit MACROs here, according to your Matrix Dimensions for
+// Editar los MACROS aquí, acorde a la dimensión deseada para
 // mat1[R1][C1] and mat2[R2][C2]
 #define R1 2 // number of rows in Matrix-1
 #define C1 2 // number of columns in Matrix-1
